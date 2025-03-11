@@ -8,6 +8,6 @@ public class ApplicationStart {
                 sum+=i;
             }
         }
-        System.out.println("Sum: " + sum );
+        System.out.println("Suma parnih brojeva je : " + sum );
     }
 }
